@@ -28,4 +28,5 @@ if you have a few posts already and want to make changes to the page that displa
 ## enjoy uploading urself to the wired a few kb at a time
 
 ### todo
-there's a whole bit in post.sh that should be a function but i got lazy
+* there's a whole bit in `post.sh` that should be a function but i got lazy
+* better/more consistent css
