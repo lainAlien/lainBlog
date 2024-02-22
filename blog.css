@@ -1,0 +1,47 @@
+ul.blav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: sticky;
+	background-color: Bisque;
+	color: CornflowerBlue;
+	font-family: monospace;
+}
+li.blav { float: left; }
+li.blav a {
+	display: block;
+	text-align: center;
+	padding: 10px 12px;
+	text-decoration: none;
+}
+li.blav a:hover { 
+	background-color: DarkSeaGreen;
+	color: Bisque;
+}
+li.blav a:visited { color: CornflowerBlue; }
+
+.collapsible {
+    color: white;
+    cursor: pointer;
+    padding: .75em;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+.year { background-color: #787070; }
+.month { background-color: #707870; }
+.day { background-color: #707078; }
+
+.active, .collapsible:hover {
+    background-color: #555;
+}
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
