@@ -1,5 +1,5 @@
 <html>
-    <?php include "Parsedown.php";
+    <?php include "parsedown/Parsedown.php";
         $Parsedown = new Parsedown();
         // get the latest post
         $year_dir = glob( "posts/*", GLOB_ONLYDIR );

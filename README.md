@@ -9,7 +9,7 @@ I was high at work and thought "I bet I could make a blog" and then thought the 
 
 install [gum](https://github.com/charmbracelet/gum) however u please
 
-clone this repo to wherever on your domain u want ur blog to be, for example in a blog subdirectory:
+clone this repo (and its submodule [parsedown](https://github.com/erusev/parsedown) to wherever on your domain u want ur blog to be, for example in a blog subdirectory:
 ```
 git clone --recursive https://github.com/lainAlien/lainBlog.git blog
 ```
