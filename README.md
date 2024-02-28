@@ -1,6 +1,8 @@
 # lainBlog
 a super tiny and basic blogging software for people that like to go on the ssh and use 2 computers at once
 
+now licensed under the [cnpl-na v7+ license](https://git.pixie.town/thufie/npl-builder/src/branch/main/cnpl-na.md) dont do uncool crimes with it
+
 ## thought process
 I was high at work and thought "I bet I could make a blog" and then thought the whole thing out lol
 
