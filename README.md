@@ -11,7 +11,7 @@ I was high at work and thought "I bet I could make a blog" and then thought the 
 
 install [gum](https://github.com/charmbracelet/gum) however u please
 
-clone this repo (and its submodule [parsedown](https://github.com/erusev/parsedown) to wherever on your domain u want ur blog to be, for example in a blog subdirectory:
+clone this repo (and its submodule [parsedown](https://github.com/erusev/parsedown)) to wherever on your domain u want ur blog to be, for example in a blog subdirectory:
 ```
 git clone --recursive https://github.com/lainAlien/lainBlog.git blog
 ```
@@ -30,5 +30,7 @@ if you have a few posts already and want to make changes to the page that displa
 ## enjoy uploading urself to the wired a few kb at a time
 
 ### todo
-* there's a whole bit in `post.sh` that should be a function but i got lazy
+* the permalink in the confirmation when u edit a post is slightly broke
+* a fancier way to find and edit posts?
 * better/more consistent css
+* tags???
